@@ -5,7 +5,7 @@ from yahoo_fin.stock_info import get_data
 import streamlit as st
 from datetime import date
 from sklearn.preprocessing import MinMaxScaler
-import keras
+
 
 st.title('Exchange Rate Prediction')
 
